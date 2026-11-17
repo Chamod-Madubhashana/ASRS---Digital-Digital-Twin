@@ -15,8 +15,7 @@ A Unity-based Automated Storage and Retrieval System (AS/RS) simulation. The ful
 
 ```text
 Assets/
-├── ASRS/
-│   └── ASRS.cs
+│── ASRS.cs
 ├── ASRSStatusUI.cs
 ├── BoxArrivalHandler.cs
 ├── BoxMover.cs
@@ -31,3 +30,7 @@ Assets/
 This is a **code-only showcase** of the Unity project, developed with Unity 2022.3.62f3. The Unity scene, 3D models, project configuration, and Quest controller setup are not included. Cloning this repository alone will not run the complete simulation or VR experience.
 
 The published scripts implement simulation behaviour. Live PLC, sensor, or warehouse management system data integration is not included in this release.
+
+## Full project and contact
+
+This repository contains the C# scripts only. For access to the full Unity project, the 3D models, Quest 3 setup details, or more information, please email me at [chamodmadubhashana1@gmail.com](mailto:chamodmadubhashana1@gmail.com).
